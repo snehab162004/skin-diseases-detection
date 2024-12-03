@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs and temporary files
+*.log
+temp/
+
+# Secrets and environment files
+.env
+config.json
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Large files
+*.pt
+*.h5
+uploads/
+
+# Node modules (if applicable)
+node_modules/
+
+# Static files (if unnecessary)
+static/Images/
